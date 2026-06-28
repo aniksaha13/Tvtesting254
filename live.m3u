@@ -5,7 +5,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 orbit
-#EXTINF:-1 tvg-id="65" tvg-logo="https://i.imgur.com/h4ns6dJ.jpeg" group-title="orbit",Colors HD 📺 
+#EXTINF:-1 tvg-id="65" tvg-logo="https://i.imgur.com/h4ns6dJ.jpeg" group-title="orbit Isp",Colors HD 📺 
 http://172.19.17.3:8090/hls/ColorsHD.m3u8
-#EXTINF:-1 tvg-id="99" tvg-logo="https://i.imgur.com/mb8UzxH.jpeg" group-title="orbit",Sony HD 📺 
+#EXTINF:-1 tvg-id="99" tvg-logo="https://i.imgur.com/mb8UzxH.jpeg" group-title="Isp",Sony HD 📺 
 http://172.19.17.3:8090/hls/SonyHD.m3u8
